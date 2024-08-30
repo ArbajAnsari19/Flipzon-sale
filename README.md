@@ -9,10 +9,9 @@
 6. [Installation](#installation)
 7. [Running the Application](#running-the-application)
 8. [API Endpoints](#api-endpoints)
-9. [Testing](#testing)
-10. [Deployment](#deployment)
-11. [Contributing](#contributing)
-12. [License](#license)
+9. [Deployment](#deployment)
+10. [Contributing](#contributing)
+11. [License](#license)
 
 ## Project Overview
 
