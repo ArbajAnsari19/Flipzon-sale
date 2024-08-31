@@ -130,7 +130,7 @@ curl http://localhost:3000/api/phones/available
 # Pick up a phone
 curl -X POST http://localhost:3000/api/phones/pickup \
   -H "Content-Type: application/json" \
-  -d '{"userId": "user123"}'
+  -d '{"userId": "user123","phoneId": "phone456"}'
 ```
 
 ### 4. Purchase Phone
